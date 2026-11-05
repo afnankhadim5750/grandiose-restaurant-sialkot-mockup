@@ -1,6 +1,6 @@
 # Grandiose' Restaurant
 
-Demo website concept for **Grandiose' Restaurant** — Sialkot Cantt, Pakistan.
+Demo website concept for **Grandiose' Restaurant** — Sialkot, Pakistan.
 
 Live preview: https://grandiose-restaurant-sialkot-mockup.netlify.app
 

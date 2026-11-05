@@ -1,1 +1,177 @@
-{"built":"2026-11-05","business":"Grandiose' Restaurant (Grandiose The Family Restaurant)","design_dna":{"card_and_cta_treatment":"White cards with 1px #DDD3BC borders and a gold top rule on visit cards / teal top rule on why-cards; sharp rectangular buttons (2px radius) in gold and teal","colour_system":"Deep teal #123B3C primary, warm cream #FAF5EB base, muted gold #C2A15A accent, ink #1E2422 text; gold-dark #7A6428 for small text on cream (AA). No orange UI accents.","hero_composition":"Centred badge + background: a centred circular gold-ringed 'G' emblem badge with the restaurant name over a full-width dining-room photo background, headline beneath the badge — NOT split 50/50, NOT full-screen photo with huge headline, NOT type-led with one small image, NOT mosaic, NOT collage","layout_archetype":"Bento grid","signature_elements":"Bento-grid feature tiles (Dining / Events / Family / Takeaway); events & banquet/gatherings section (dark teal band); tabbed menu (Starters / Mains / Desserts); lightbox gallery","type_pairing":"Bricolage Grotesque (display) + Figtree (body) via Google Fonts"},"honesty_notes":["No invented reviews, ratings, prices, awards, staff or opening year. No verbatim review quotes — 'Why locals choose' paraphrases the 5 review themes from research.json.","Rating stated only as '3.9 stars, over 1,500 Google reviews' (counts conflict across snapshots). Hours 'Daily 12:00 PM – 12:00 AM' from Evendo/Google Business Profile.","'Prices on request' appears ONCE, in the menu section only; no prices anywhere.","Events section claims no banquet hall or capacity — gatherings framed as book-ahead family occasions. Takeaway framed as phone-ahead collection; no delivery-platform listing claimed.","Grace Family Restaurant details (kids' play area, CSD parking, Kabsa Dajaj, Turkish kebab) and the Dhaka Grandiose Restaurant were found in search and deliberately NOT used — different businesses.","Footer-only disclaimer verbatim: 'Design concept by CodeCrafters Hub — not the official website of Grandiose' Restaurant.' plus meta robots noindex. No concept/demo/mockup badges in hero or header."],"image_ids":["photo-1550966871-3ed3cdb5ed0c","photo-1555939594-58d7cb561ad1","photo-1544025162-d76694265947","photo-1558030006-450675393462","photo-1504674900247-0877df9cc836","photo-1589302168068-964664d93dc0","photo-1563379091339-03b21ab4a4f8","photo-1621996346565-e3dbc646d9a9","photo-1568901346375-23c9450c58cd","photo-1601050690597-df0568f70950","photo-1547592180-85f173990554","photo-1565958011703-44f9829ba187","photo-1578985545062-69928b1d9587","photo-1563805042-7684c019e1cb","photo-1537047902294-62a40c20a6ae","photo-1527477396000-e27163b481c2","photo-1559847844-5315695dadae","photo-1498579150354-977475b7ea0b"],"images":{"count":18,"files":[{"file":"hero-dining-room-800/1600.webp","subject":"Elegant restaurant dining room with set tables and large windows (hero background)","unsplash_id":"photo-1550966871-3ed3cdb5ed0c"},{"file":"bbq-platter-800/1600.webp","subject":"Mixed grill platter: kebab skewers, wings, lamb chops, grilled vegetables with dips","unsplash_id":"photo-1555939594-58d7cb561ad1"},{"file":"bbq-ribs-800/1600.webp","subject":"Barbecue ribs with fries, tomatoes and pickles on a wooden board","unsplash_id":"photo-1544025162-d76694265947"},{"file":"steak-sliced-800/1600.webp","subject":"Sliced grilled steak on a wooden board","unsplash_id":"photo-1558030006-450675393462"},{"file":"asian-bowls-800/1600.webp","subject":"Asian-style bowls with sliced meat, chillies, cashews and herbs","unsplash_id":"photo-1504674900247-0877df9cc836"},{"file":"biryani-plate-800/1600.webp","subject":"Chicken biryani with raita, cucumber and mint","unsplash_id":"photo-1589302168068-964664d93dc0"},{"file":"biryani-handi-800/1600.webp","subject":"Biryani served in traditional handi bowls","unsplash_id":"photo-1563379091339-03b21ab4a4f8"},{"file":"penne-pasta-800/1600.webp","subject":"Penne pasta in tomato sauce","unsplash_id":"photo-1621996346565-e3dbc646d9a9"},{"file":"burger-800/1600.webp","subject":"Double cheeseburger with lettuce, tomato, pickles and sauce","unsplash_id":"photo-1568901346375-23c9450c58cd"},{"file":"samosas-800/1600.webp","subject":"Golden samosas with green chutney and chilli","unsplash_id":"photo-1601050690597-df0568f70950"},{"file":"salmon-plate-800/1600.webp","subject":"Grilled salmon plate with rice, green beans and tomatoes","unsplash_id":"photo-1547592180-85f173990554"},{"file":"raspberry-cake-800/1600.webp","subject":"Slice of raspberry layer cake","unsplash_id":"photo-1565958011703-44f9829ba187"},{"file":"chocolate-cake-800/1600.webp","subject":"Chocolate layer cake with dripping ganache","unsplash_id":"photo-1578985545062-69928b1d9587"},{"file":"dessert-glass-800/1600.webp","subject":"Chocolate dessert glass with cream and biscuit crumb","unsplash_id":"photo-1563805042-7684c019e1cb"},{"file":"dining-room-plants-800/1600.webp","subject":"Set tables in a warm restaurant dining room with plants and hanging lights","unsplash_id":"photo-1537047902294-62a40c20a6ae"},{"file":"wings-800/1600.webp","subject":"Glazed chicken wings with dipping sauce","unsplash_id":"photo-1527477396000-e27163b481c2"},{"file":"prawn-curry-800/1600.webp","subject":"Prawn curry with rice","unsplash_id":"photo-1559847844-5315695dadae"},{"file":"fresh-pasta-800/1600.webp","subject":"Fresh pasta nests with tomatoes, basil and eggs","unsplash_id":"photo-1498579150354-977475b7ea0b"}],"note":"Each photo downloaded and VIEWED for actual subject vs trade before use. No image repeated within the site. No image ID reused from Day 1 (checked against design-log.json + batch-2026-11-04-day1.json: all 18 IDs absent from Quetta Pexels list, Tuscany Unsplash list and Fazal Unsplash list). Rejected during vetting: 2 alcohol shots (wine-glass fine dining, beer-glass sharing table), bar with 'DRAUGHT BEER' board and liquor bottles, whiskey cocktail pour, wine-glass group dinner, lakeside terrace (wrong setting for Sialkot Cantt), breakfast/brunch table (waffles/shakshuka — not on the verified menu), solo café diner, 1 invalid Unsplash ID (photo-1540189549336, 404), 1 near-duplicate burger. All files WebP, 1600px + 800px, each under 250 KB.","source":"Unsplash (free-licensed)"},"logo":{"finding":"No verified standalone logo found — text wordmark kept, no logo file invented or added.","note":"No signage colour description was found either, so the assigned deep-teal/cream/gold scheme (from the task brief) is used as-is; no brand colours were invented from an unverified source.","sources_checked":["Web search 'Grandiose Restaurant Sialkot logo' — no logo file returned (only Evendo/branches.pk directory pages)","Web search 'Grandiose Restaurant Sialkot Facebook page' — Facebook page https://www.facebook.com/163273423750970/ confirmed as the listing's web presence, but profile-picture image bytes not retrievable","Full 60-list row 45 — no logo or brand-asset source listed"]},"nav_set":["Dining","Events","Family","Gallery","Find Us","Contact"],"section_order":["hero (centred badge + background)","trust bar","bento feature tiles (Dining / Events / Family / Takeaway)","Dining — tabbed menu (Starters / Mains / Desserts)","Family dining","Events & gatherings (dark teal band)","Why locals choose","Gallery (lightbox)","Find Us — visit & hours","FAQ accordion","Contact","footer"],"slug":"grandiose-restaurant-sialkot-mockup","uniqueness_vs_day1":{"banned_combo_check":"Uses 1 of 4 banned traits only (warm cream base). Display type is a grotesque sans (not serif), buttons are sharp/rectangular (not pills), hero is full-bleed background (not boxed).","fazal":"Bold brutalist type, full-screen stew photo + huge Anton headline, Anton+Inter, near-black/bone/red, timeline + menu board","quetta":"Split 50/50 hero, Fraunces+Manrope, forest green, nav Home/Our Chai/Parathas/The Dhaba/Visit/Contact, marquee + menu board","this_site":"Bento grid archetype (none of Day 1), centred-badge hero (none of Day 1), Bricolage Grotesque+Figtree (unused pair), deep teal/cream/gold system, nav set Dining/Events/Family/Gallery/Find Us/Contact — differs on all 6 design-DNA axes from each Day 1 site","tuscany":"Swiss grid, oversized Playfair type-led hero with one small image, Playfair+Karla, wine/sage, nav Courtyard/Menus/Signatures/Gatherings/Gallery/Find Us"}}
+{
+  "built": "2026-11-05",
+  "business": "Grandiose' Restaurant (Grandiose The Family Restaurant)",
+  "design_dna": {
+    "card_and_cta_treatment": "White cards with 1px #DDD3BC borders and a gold top rule on visit cards / teal top rule on why-cards; sharp rectangular buttons (2px radius) in gold and teal",
+    "colour_system": "Deep teal #123B3C primary, warm cream #FAF5EB base, muted gold #C2A15A accent, ink #1E2422 text; gold-dark #7A6428 for small text on cream (AA). No orange UI accents.",
+    "hero_composition": "Centred badge + background: a centred circular gold-ringed 'G' emblem badge with the restaurant name over a full-width dining-room photo background, headline beneath the badge — NOT split 50/50, NOT full-screen photo with huge headline, NOT type-led with one small image, NOT mosaic, NOT collage",
+    "layout_archetype": "Bento grid",
+    "signature_elements": "Bento-grid feature tiles (Dining / Events / Family / Takeaway); events & banquet/gatherings section (dark teal band); tabbed menu (Starters / Mains / Desserts); lightbox gallery",
+    "type_pairing": "Bricolage Grotesque (display) + Figtree (body) via Google Fonts"
+  },
+  "honesty_notes": [
+    "No invented reviews, ratings, prices, awards, staff or opening year. No verbatim review quotes — 'Why locals choose' paraphrases the 5 review themes from research.json.",
+    "Rating stated only as '3.9 stars, over 1,500 Google reviews' (counts conflict across snapshots). Hours 'Daily 12:00 PM – 12:00 AM' from Evendo/Google Business Profile.",
+    "'Prices on request' appears ONCE, in the menu section only; no prices anywhere.",
+    "Events section claims no banquet hall or capacity — gatherings framed as book-ahead family occasions. Takeaway framed as phone-ahead collection; no delivery-platform listing claimed.",
+    "Grace Family Restaurant details (kids' play area, CSD parking, Kabsa Dajaj, Turkish kebab) and the Dhaka Grandiose Restaurant were found in search and deliberately NOT used — different businesses.",
+    "Footer-only disclaimer verbatim: 'Design concept by CodeCrafters Hub — not the official website of Grandiose' Restaurant.' plus meta robots noindex. No concept/demo/mockup badges in hero or header."
+  ],
+  "image_ids": [
+    "photo-1550966871-3ed3cdb5ed0c",
+    "photo-1555939594-58d7cb561ad1",
+    "photo-1544025162-d76694265947",
+    "photo-1558030006-450675393462",
+    "photo-1504674900247-0877df9cc836",
+    "photo-1589302168068-964664d93dc0",
+    "photo-1563379091339-03b21ab4a4f8",
+    "photo-1621996346565-e3dbc646d9a9",
+    "photo-1568901346375-23c9450c58cd",
+    "photo-1601050690597-df0568f70950",
+    "photo-1547592180-85f173990554",
+    "photo-1563729784474-d77dbb933a9e",
+    "photo-1606313564200-e75d5e30476c",
+    "photo-1563805042-7684c019e1cb",
+    "photo-1537047902294-62a40c20a6ae",
+    "photo-1527477396000-e27163b481c2",
+    "photo-1559847844-5315695dadae",
+    "photo-1498579150354-977475b7ea0b"
+  ],
+  "images": {
+    "count": 18,
+    "files": [
+      {
+        "file": "hero-dining-room-800/1600.webp",
+        "subject": "Elegant restaurant dining room with set tables and large windows (hero background)",
+        "unsplash_id": "photo-1550966871-3ed3cdb5ed0c"
+      },
+      {
+        "file": "bbq-platter-800/1600.webp",
+        "subject": "Mixed grill platter: kebab skewers, wings, lamb chops, grilled vegetables with dips",
+        "unsplash_id": "photo-1555939594-58d7cb561ad1"
+      },
+      {
+        "file": "bbq-ribs-800/1600.webp",
+        "subject": "Barbecue ribs with fries, tomatoes and pickles on a wooden board",
+        "unsplash_id": "photo-1544025162-d76694265947"
+      },
+      {
+        "file": "steak-sliced-800/1600.webp",
+        "subject": "Sliced grilled steak on a wooden board",
+        "unsplash_id": "photo-1558030006-450675393462"
+      },
+      {
+        "file": "asian-bowls-800/1600.webp",
+        "subject": "Asian-style bowls with sliced meat, chillies, cashews and herbs",
+        "unsplash_id": "photo-1504674900247-0877df9cc836"
+      },
+      {
+        "file": "biryani-plate-800/1600.webp",
+        "subject": "Chicken biryani with raita, cucumber and mint",
+        "unsplash_id": "photo-1589302168068-964664d93dc0"
+      },
+      {
+        "file": "biryani-handi-800/1600.webp",
+        "subject": "Biryani served in traditional handi bowls",
+        "unsplash_id": "photo-1563379091339-03b21ab4a4f8"
+      },
+      {
+        "file": "penne-pasta-800/1600.webp",
+        "subject": "Penne pasta in tomato sauce",
+        "unsplash_id": "photo-1621996346565-e3dbc646d9a9"
+      },
+      {
+        "file": "burger-800/1600.webp",
+        "subject": "Double cheeseburger with lettuce, tomato, pickles and sauce",
+        "unsplash_id": "photo-1568901346375-23c9450c58cd"
+      },
+      {
+        "file": "samosas-800/1600.webp",
+        "subject": "Golden samosas with green chutney and chilli",
+        "unsplash_id": "photo-1601050690597-df0568f70950"
+      },
+      {
+        "file": "salmon-plate-800/1600.webp",
+        "subject": "Grilled salmon plate with rice, green beans and tomatoes",
+        "unsplash_id": "photo-1547592180-85f173990554"
+      },
+      {
+        "file": "strawberry-cupcakes-800/1600.webp",
+        "subject": "Strawberry cupcakes with pink frosting, white chocolate drizzle and a fresh strawberry on top",
+        "unsplash_id": "photo-1563729784474-d77dbb933a9e"
+      },
+      {
+        "file": "chocolate-cake-800/1600.webp",
+        "subject": "Stacked chocolate cake squares with chocolate sauce being poured over them",
+        "unsplash_id": "photo-1606313564200-e75d5e30476c"
+      },
+      {
+        "file": "dessert-glass-800/1600.webp",
+        "subject": "Chocolate dessert glass with cream and biscuit crumb",
+        "unsplash_id": "photo-1563805042-7684c019e1cb"
+      },
+      {
+        "file": "dining-room-plants-800/1600.webp",
+        "subject": "Set tables in a warm restaurant dining room with plants and hanging lights",
+        "unsplash_id": "photo-1537047902294-62a40c20a6ae"
+      },
+      {
+        "file": "wings-800/1600.webp",
+        "subject": "Glazed chicken wings with dipping sauce",
+        "unsplash_id": "photo-1527477396000-e27163b481c2"
+      },
+      {
+        "file": "prawn-curry-800/1600.webp",
+        "subject": "Prawn curry with rice",
+        "unsplash_id": "photo-1559847844-5315695dadae"
+      },
+      {
+        "file": "fresh-pasta-800/1600.webp",
+        "subject": "Fresh pasta nests with tomatoes, basil and eggs",
+        "unsplash_id": "photo-1498579150354-977475b7ea0b"
+      }
+    ],
+    "note": "Each photo downloaded and VIEWED for actual subject vs trade before use. No image repeated within the site. No image ID reused from Day 1 (checked against design-log.json + batch-2026-11-04-day1.json: all 18 IDs absent from Quetta Pexels list, Tuscany Unsplash list and Fazal Unsplash list). Rejected during vetting: 2 alcohol shots (wine-glass fine dining, beer-glass sharing table), bar with 'DRAUGHT BEER' board and liquor bottles, whiskey cocktail pour, wine-glass group dinner, lakeside terrace (wrong setting for Sialkot Cantt), breakfast/brunch table (waffles/shakshuka — not on the verified menu), solo café diner, 1 invalid Unsplash ID (photo-1540189549336, 404), 1 near-duplicate burger. All files WebP, 1600px + 800px, each under 250 KB.",
+    "source": "Unsplash (free-licensed)"
+  },
+  "logo": {
+    "finding": "No verified standalone logo found — text wordmark kept, no logo file invented or added.",
+    "note": "No signage colour description was found either, so the assigned deep-teal/cream/gold scheme (from the task brief) is used as-is; no brand colours were invented from an unverified source.",
+    "sources_checked": [
+      "Web search 'Grandiose Restaurant Sialkot logo' — no logo file returned (only Evendo/branches.pk directory pages)",
+      "Web search 'Grandiose Restaurant Sialkot Facebook page' — Facebook page https://www.facebook.com/163273423750970/ confirmed as the listing's web presence, but profile-picture image bytes not retrievable",
+      "Full 60-list row 45 — no logo or brand-asset source listed"
+    ]
+  },
+  "nav_set": [
+    "Dining",
+    "Events",
+    "Family",
+    "Gallery",
+    "Find Us",
+    "Contact"
+  ],
+  "section_order": [
+    "hero (centred badge + background)",
+    "trust bar",
+    "bento feature tiles (Dining / Events / Family / Takeaway)",
+    "Dining — tabbed menu (Starters / Mains / Desserts)",
+    "Family dining",
+    "Events & gatherings (dark teal band)",
+    "Why locals choose",
+    "Gallery (lightbox)",
+    "Find Us — visit & hours",
+    "FAQ accordion",
+    "Contact",
+    "footer"
+  ],
+  "slug": "grandiose-restaurant-sialkot-mockup",
+  "uniqueness_vs_day1": {
+    "banned_combo_check": "Uses 1 of 4 banned traits only (warm cream base). Display type is a grotesque sans (not serif), buttons are sharp/rectangular (not pills), hero is full-bleed background (not boxed).",
+    "fazal": "Bold brutalist type, full-screen stew photo + huge Anton headline, Anton+Inter, near-black/bone/red, timeline + menu board",
+    "quetta": "Split 50/50 hero, Fraunces+Manrope, forest green, nav Home/Our Chai/Parathas/The Dhaba/Visit/Contact, marquee + menu board",
+    "this_site": "Bento grid archetype (none of Day 1), centred-badge hero (none of Day 1), Bricolage Grotesque+Figtree (unused pair), deep teal/cream/gold system, nav set Dining/Events/Family/Gallery/Find Us/Contact — differs on all 6 design-DNA axes from each Day 1 site",
+    "tuscany": "Swiss grid, oversized Playfair type-led hero with one small image, Playfair+Karla, wine/sage, nav Courtyard/Menus/Signatures/Gatherings/Gallery/Find Us"
+  },
+  "image_fix_2026-11-05": "Parent merge fix: two Unsplash IDs (photo-1565958011703-44f9829ba187, photo-1578985545062-69928b1d9587) were also used by the sibling Day 2 site Bread 'n' Butter Bakers, violating the no-reuse-across-batch rule. Both images were replaced in this site only (viewed before use), copy updated to match the new subjects, and the site was redeployed. No other images changed."
+}
